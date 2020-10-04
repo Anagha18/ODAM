@@ -1,4 +1,4 @@
-# Deimos
+# ODAM - Onboard Detection and Automated Maneuvering
 
 ## Details
 prototype which constituted a
